@@ -9,6 +9,7 @@ URL:		https://codeberg.org/newsraft/newsraft
 License:	ISC
 Group:		Reader
 
+BuildRequires:  make
 BuildRequires:  gperf
 BuildRequires:  scdoc
 BuildRequires:  pkgconfig(sqlite3)
